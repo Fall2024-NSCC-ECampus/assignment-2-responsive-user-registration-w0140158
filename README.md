@@ -30,7 +30,7 @@ This project is a responsive user registration and login system built with Sprin
 
 1. **Clone the Repository**
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/Fall2024-NSCC-ECampus/assignment-2-responsive-user-registration-w0140158.git
    cd assignment-2-responsive-user-registration-w0140158
    ```
 
