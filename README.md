@@ -1,6 +1,7 @@
 ![Login Image](https://raw.githubusercontent.com/Fall2024-NSCC-ECampus/assignment-2-responsive-user-registration-w0140158/main/login.png)
 ![Login Image 1](https://raw.githubusercontent.com/Fall2024-NSCC-ECampus/assignment-2-responsive-user-registration-w0140158/main/login1.png)
 
+
 # Responsive User Registration
 
 This project is a responsive user registration and login system built with Spring Boot and Thymeleaf. It enables users to register, login, and logout while offering client and server-side checks for unique usernames and emails.
